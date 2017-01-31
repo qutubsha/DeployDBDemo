@@ -1,0 +1,9 @@
+C:\Users\kutbuddin.s\Documents\Visual Studio 2015\Projects\DeployDbDemo\DeployDbDemo\bin\Debug\DeployDbDemo.dacpac
+C:\Users\kutbuddin.s\Documents\Visual Studio 2015\Projects\DeployDbDemo\DeployDbDemo\bin\Debug\DeployDbDemo.dll
+C:\Users\kutbuddin.s\Documents\Visual Studio 2015\Projects\DeployDbDemo\DeployDbDemo\bin\Debug\DeployDbDemo.pdb
+C:\Users\kutbuddin.s\Documents\Visual Studio 2015\Projects\DeployDbDemo\DeployDbDemo\obj\Debug\Model.xml
+C:\Users\kutbuddin.s\Documents\Visual Studio 2015\Projects\DeployDbDemo\DeployDbDemo\obj\Debug\refactor.xml
+C:\Users\kutbuddin.s\Documents\Visual Studio 2015\Projects\DeployDbDemo\DeployDbDemo\obj\Debug\postdeploy.sql
+C:\Users\kutbuddin.s\Documents\Visual Studio 2015\Projects\DeployDbDemo\DeployDbDemo\obj\Debug\predeploy.sql
+C:\Users\kutbuddin.s\Documents\Visual Studio 2015\Projects\DeployDbDemo\DeployDbDemo\obj\Debug\DeployDbDemo.dll
+C:\Users\kutbuddin.s\Documents\Visual Studio 2015\Projects\DeployDbDemo\DeployDbDemo\obj\Debug\DeployDbDemo.pdb

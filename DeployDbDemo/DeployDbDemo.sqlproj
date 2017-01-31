@@ -118,4 +118,10 @@
       <QuotedIdentifier>On</QuotedIdentifier>
     </Build>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Scripts\deploy.ps1" />
+  </ItemGroup>
+  <ItemGroup>
+    <RefactorLog Include="DeployDbDemo.refactorlog" />
+  </ItemGroup>
 </Project>
