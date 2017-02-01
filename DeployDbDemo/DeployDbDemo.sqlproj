@@ -117,11 +117,15 @@
       <AnsiNulls>On</AnsiNulls>
       <QuotedIdentifier>On</QuotedIdentifier>
     </Build>
+    <Build Include="dbo\Tables\Orders.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Scripts\deploy.ps1" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="DeployDbDemo.refactorlog" />
+  </ItemGroup>
+  <ItemGroup>
+    <PostDeploy Include="Script.PostDeployment1.sql" />
   </ItemGroup>
 </Project>
